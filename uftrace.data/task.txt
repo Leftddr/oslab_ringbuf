@@ -1,0 +1,2 @@
+SESS timestamp=1712.184283693 pid=6290 sid=9e830e870f31378e exename="/home/datos/Desktop/oslab-ringbuf/17448"
+TASK timestamp=1712.184575427 tid=6290 pid=6290
